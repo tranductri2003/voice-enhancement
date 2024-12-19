@@ -1,9 +1,5 @@
 # Voice Enhancement System
 
-<p align="center">
-  <img src="docs/images/banner.png" alt="Voice Enhancement Banner" width="800"/>
-</p>
-
 A comprehensive voice enhancement system that leverages deep learning to improve audio quality by removing background noise and enhancing speech clarity.
 
 ## 🌟 Demo & Screenshots
@@ -11,11 +7,11 @@ A comprehensive voice enhancement system that leverages deep learning to improve
 ### Audio Processing Interface
 <img width="1506" alt="System Overview" src="https://github.com/user-attachments/assets/c48ff765-5c28-4787-9829-1f5c556d12e5" />
 
+### Results Visualization
 <img width="1501" alt="Audio Processing Interface" src="https://github.com/user-attachments/assets/1c7000db-40a3-4819-8f9f-346fe701ec20" />
 
 <img width="1503" alt="Real-time Enhancement" src="https://github.com/user-attachments/assets/607973f4-0236-40cb-9cb1-54b505561651" />
 
-### Results Visualization
 <img width="1503" alt="Results Visualization" src="https://github.com/user-attachments/assets/76a20394-c3f3-4c8f-a7cd-d7f59232958b" />
 
 <img width="1506" alt="Performance Metrics" src="https://github.com/user-attachments/assets/014d4280-b719-47f9-9e30-fd6d599c4238" />

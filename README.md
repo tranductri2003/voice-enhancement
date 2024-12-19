@@ -5,18 +5,18 @@ A comprehensive voice enhancement system that leverages deep learning to improve
 ## 🌟 Demo & Screenshots
 
 ### Audio Processing Interface
-<img width="1506" alt="System Overview" src="https://github.com/user-attachments/assets/c48ff765-5c28-4787-9829-1f5c556d12e5" />
+<img width="1502" alt="image" src="https://github.com/user-attachments/assets/00b27414-3134-4fd2-9fc2-4c792ceb3ef9" />
 
 ### Results Visualization
-<img width="1501" alt="Audio Processing Interface" src="https://github.com/user-attachments/assets/1c7000db-40a3-4819-8f9f-346fe701ec20" />
+<img width="1506" alt="image" src="https://github.com/user-attachments/assets/9b8c53ef-d430-44d9-8e42-b9eb8f0cf143" />
 
-<img width="1503" alt="Real-time Enhancement" src="https://github.com/user-attachments/assets/607973f4-0236-40cb-9cb1-54b505561651" />
+<img width="1501" alt="image" src="https://github.com/user-attachments/assets/a4dd54a9-3bc7-4a91-a22f-5b7717525de6" />
 
-<img width="1503" alt="Results Visualization" src="https://github.com/user-attachments/assets/76a20394-c3f3-4c8f-a7cd-d7f59232958b" />
+<img width="1503" alt="image" src="https://github.com/user-attachments/assets/52a9374b-dc00-4cbf-b616-1aebaae2863f" />
 
-<img width="1506" alt="Performance Metrics" src="https://github.com/user-attachments/assets/014d4280-b719-47f9-9e30-fd6d599c4238" />
+<img width="1502" alt="image" src="https://github.com/user-attachments/assets/d62ebdd9-8695-40aa-a852-47c3fc4d93c6" />
 
-<img width="1504" alt="System Architecture" src="https://github.com/user-attachments/assets/81b5b2aa-e8d8-4998-be0c-9f9e439269b5" />
+<img width="1502" alt="image" src="https://github.com/user-attachments/assets/3eab16af-107b-48ce-b66d-d60c302c6b67" />
 
 ## 🌟 Features
 

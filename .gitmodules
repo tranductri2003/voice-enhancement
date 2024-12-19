@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/tranductri2003/multi-speaker-voice-cloning-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/tranductri2003/multi-speaker-voice-cloning-frontend.git

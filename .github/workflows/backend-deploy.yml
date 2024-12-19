@@ -1,4 +1,4 @@
-name: Auto Deploy to Raspberry Pi
+name: Auto Deploy Backend to Raspberry Pi
 
 on:
   push:

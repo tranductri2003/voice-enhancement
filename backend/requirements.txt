@@ -1,0 +1,13 @@
+fastapi
+librosa
+matplotlib
+numpy
+python-dotenv
+scikit-learn
+scipy
+soundfile
+tensorflow
+torch
+uvicorn
+multipart
+python-multipart
